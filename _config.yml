@@ -23,7 +23,9 @@ description: Exploring cell signaling and other shenanigans.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About:
+    - Me: "aboutme"
+    - My Research: "myresearch"
   Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

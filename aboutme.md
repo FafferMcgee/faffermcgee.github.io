@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A short history of ~time~ **me**
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Michael Schamber, and I am a PhD candidate at Northwestern University in Evanston, Illinois just outside of Chicago.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I work in the lab of [Reza Vafabakhsh](http://www.rezalab.org/), where I study cells use changes in the shape of proteins to transmit information.
 
-What else do you need?
+I do this through the use of specialized microscopy techniques that allow me to watch specific locations of individual protein molecules move. If you'd like more details please head over to [my research](https://faffermcgee.github.io/myresearch) page.
 
-### my history
+### my research history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+tldr; version
+
+I graduated with a Bachelor's of Science in Biocemistry and Molecular Biology from the University of California, Santa Cruz. While I was there, I did worked on studying the regulation of the Retinoblastoma protein.
+
+From there I worked as a quality control specialist at Amgen Inc. in Thousand Oaks, California for 15 months.
+
+From there, I moved to a position at Caltech in the lab of Pamela Bjorkman. While I was there, I purified Antibodies/Fabs against HIV, and I also worked on crystallizing a new Antibody against HIV in complex with the env protein. 
