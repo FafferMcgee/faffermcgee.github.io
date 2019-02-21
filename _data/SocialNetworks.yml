@@ -26,10 +26,10 @@ reddit:
   baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
 
-google-plus:
-  name: "Google+"
+google-scholar:
+  name: "Google Scholar"
   baseURL: "https://plus.google.com/"
-  icon: "fa-google-plus"
+  icon: "fa-google-scholar"
 
 email:
   name: "Email me"
