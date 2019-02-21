@@ -75,13 +75,14 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+# for google-scholar take the token after '/citations?user=' on your profile URL
 social-network-links:
 #  rss: false
   email: "schamber.m@gmail.com"
 #  facebook: stuff
   github: faffermcgee
   twitter: faffermcgee
-  google-scholar: citations?user=y5xC3eYAAAAJ&hl=en&oi=ao
+  google-scholar: y5xC3eYAAAAJ&hl=en&oi=ao
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
