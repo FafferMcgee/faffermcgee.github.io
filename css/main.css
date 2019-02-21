@@ -410,7 +410,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: {{ site.hover-col }};
-  background-color: #EEE;
+  background-color: #252525;
 }
 
 .post-preview .blog-tags {
