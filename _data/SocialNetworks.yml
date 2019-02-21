@@ -28,7 +28,7 @@ reddit:
 
 google-scholar:
   name: "Google Scholar"
-  baseURL: "https://plus.google.com/"
+  baseURL: "https://scholar.google.com/"
   icon: "fa-google-scholar"
 
 email:
