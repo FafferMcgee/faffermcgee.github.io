@@ -14,8 +14,8 @@ I do this through the use of specialized microscopy techniques that allow me to 
 
 tldr; version
 
-I graduated with a Bachelor's of Science in Biocemistry and Molecular Biology from the University of California, Santa Cruz. While I was there, I did worked on studying the regulation of the Retinoblastoma protein.
+I graduated with a Bachelor's of Science in Biochemistry and Molecular Biology from the University of California, Santa Cruz. While I was there, I did worked on studying the regulation of the Retinoblastoma protein.
 
 From there I worked as a quality control specialist at Amgen Inc. in Thousand Oaks, California for 15 months.
 
-From there, I moved to a position at Caltech in the lab of Pamela Bjorkman. While I was there, I purified Antibodies/Fabs against HIV, and I also worked on crystallizing a new Antibody against HIV in complex with the env protein. 
+From there, I moved to a position at Caltech in the lab of Pamela Bjorkman. While I was there, I purified Antibodies/Fabs against HIV, and I also worked on crystallizing a new Antibody against HIV in complex with the env protein.
