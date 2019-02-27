@@ -21,12 +21,20 @@ From there, I moved to a position at Caltech in the lab of Pamela Bjorkman. Whil
 ### My Papers
 
 1. Natively glycosylated HIV-1 Env structure reveals new mode for antibody recognition of the CD4-binding site.
+
 Harry B Gristick, Lotta von Boehmer, Anthony P West Jr, Michael Schamber, Anna Gazumyan, Jovana Golijanin, Michael S Seaman, Gerd Fätkenheuer, Florian Klein, Michel C Nussenzweig, Pamela J Bjorkman.
+
 Nature Structural & Molecular Biology 2016.
+
 [[PDF]](/papers/nsmb.3291.pdf) | [[WEB]](https://dx.doi.org/10.1038/nsmb.3291)
+
 2. An overlapping kinase and phosphatase docking site regulates activity of the retinoblastoma protein.
+
 Alexander Hirschi, Matthew Cecchini, Rachel C Steinhardt, Michael R Schamber, Frederick A Dick, Seth M Rubin.
-Nature Structural & Molecular Biology 2010 [[PDF]](/papers/nsmb.1868.pdf) | [[WEB]](https://dx.doi.org/10.1038/nsmb.1868)
+
+Nature Structural & Molecular Biology 2010 
+
+[[PDF]](/papers/nsmb.1868.pdf) | [[WEB]](https://dx.doi.org/10.1038/nsmb.1868)
 
 ### CV
 
